@@ -1,7 +1,5 @@
 ### Hi there I'm ATREE.
 
-## 🛠 &nbsp;Tech Stack:
-
 <div>
 I'm a Sophomore in National Central University.
   
@@ -23,9 +21,12 @@ I'm a Sophomore in National Central University.
   </tr>
 </table>
 <!--- stats (end) -->
+
+## 🛠 &nbsp;Tech Stack:
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,react,redux,nodejs" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,redux,nodejs" />
   </a>
 </p>
 <p align="left">
@@ -34,18 +35,3 @@ I'm a Sophomore in National Central University.
   </a>
   
 </p>
-
-<!--
-**ATREE01/ATREE01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
