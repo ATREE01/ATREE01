@@ -1,7 +1,7 @@
 ### Hi there I'm ATREE.
 
 <div>
-I'm a Sophomore in National Central University.
+I'm a Junior Student in National Central University.
   
 </div>
 
